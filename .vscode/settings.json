@@ -1,0 +1,20 @@
+{
+	"files.exclude": {
+		"**/.git": true,
+		"**/.svn": true,
+		"**/.hg": true,
+		"**/CVS": true,
+		"**/.DS_Store": true,
+		"**/*.o": true,
+		"**/*.exe": true,
+	},
+	"files.associations": {
+		"*.m": "cpp",
+		"*.tcc": "cpp",
+		"unordered_map": "cpp",
+		"format": "cpp",
+		"ostream": "cpp",
+		"streambuf": "cpp",
+		"functional": "cpp"
+	}
+}
